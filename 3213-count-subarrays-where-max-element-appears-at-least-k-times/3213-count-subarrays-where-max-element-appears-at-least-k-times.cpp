@@ -12,7 +12,6 @@ public:
                 cnt_maxi++;
             }
             while(cnt_maxi>=k){
-                cout<<j<<endl;
                 cnt+=(n-j);
                 if(nums[i]==maxi){
                     cnt_maxi--;
