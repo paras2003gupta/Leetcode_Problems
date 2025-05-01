@@ -9,7 +9,7 @@ class Solution {
         int j = m-1;
 
         for(int i = k-1;  i>=0 ; i--){
-            while(j>=m-k&&workers[j]+strength>=task[i]){
+            while(j>=0&&workers[j]+strength>=task[i]){
                 available.push_front(workers[j--]);
             }
             if(available.size()==0) return false;
