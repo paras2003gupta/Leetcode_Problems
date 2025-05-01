@@ -1,49 +1,48 @@
 class Solution {
-public:
-    int maxTaskAssign(vector<int>& tasks, vector<int>& workers, int pills,
-                      int strength) {
-        int n = tasks.size(), m = workers.size();
-        sort(tasks.begin(), tasks.end());
-        sort(workers.begin(), workers.end());
+    private:
+    bool isPossible(int k,vector<int>& task, vector<int>& workers, int pills, int strength){
+        int p = pills;
+        int m = workers.size();
+        int n = task.size();
+    
+        deque<int>available;
+        int j = m-1;
 
-        auto check = [&](int mid) -> bool {
-            int p = pills;
-            // Ordered set of workers
-            multiset<int> ws;
-            for (int i = m - mid; i < m; ++i) {
-                ws.insert(workers[i]);
+        for(int i = k-1;  i>=0 ; i--){
+            while(j>=m-k&&workers[j]+strength>=task[i]){
+                available.push_front(workers[j--]);
             }
-            // Enumerate each task from largest to smallest
-            for (int i = mid - 1; i >= 0; --i) {
-                // If the largest element in the ordered set is greater than or
-                // equal to tasks[i]
-                if (auto it = prev(ws.end()); *it >= tasks[i]) {
-                    ws.erase(it);
-                } else {
-                    if (!p) {
-                        return false;
-                    }
-                    auto rep = ws.lower_bound(tasks[i] - strength);
-                    if (rep == ws.end()) {
-                        return false;
-                    }
-                    --p;
-                    ws.erase(rep);
-                }
-            }
-            return true;
-        };
+            if(available.size()==0) return false;
 
-        int left = 1, right = min(m, n), ans = 0;
-        while (left <= right) {
-            int mid = (left + right) / 2;
-            if (check(mid)) {
-                ans = mid;
-                left = mid + 1;
-            } else {
-                right = mid - 1;
+            if(available.back()>=task[i]){
+                available.pop_back();
+            }
+            else{
+                if(p==0)return false;
+                p--;
+                available.pop_front();
+        
             }
         }
-        return ans;
+        return true;
+
+    }
+public:
+    int maxTaskAssign(vector<int>& task, vector<int>& workers, int pills, int strength) {
+        sort(task.begin(),task.end());
+        sort(workers.begin(),workers.end());
+        int n = task.size();
+        int m = workers.size();
+        int lo = 0; int hi = min(n,m);
+        int task_completed = 0;
+        while(lo<=hi){
+            int mid = (lo+hi)/2;
+            if(isPossible(mid,task,workers,pills,strength)){
+                lo = mid+1;
+            }else{
+                hi = mid-1;
+            }
+        }
+        return hi;
     }
 };
