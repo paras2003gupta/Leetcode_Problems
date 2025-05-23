@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0070-climbing-stairs) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1500-count-largest-group](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1500-count-largest-group) |
 ## Sliding Window
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0070-climbing-stairs) |
 | [0806-domino-and-tromino-tiling](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0868-push-dominoes) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3307-find-the-maximum-sum-of-node-values) |
@@ -92,4 +94,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3307-find-the-maximum-sum-of-node-values) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
