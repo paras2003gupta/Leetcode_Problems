@@ -1,22 +1,32 @@
 class Solution {
+    private:
+    
 public:
-    static long long maximumValueSum(vector<int>& nums, const int k, vector<vector<int>>& edges) 
-    {
-        const int n=nums.size();
-        long long dp0=0, dp1=INT_MIN;
-        for(int i=1; i<=n; i++){
-            const long long x=nums[i-1], xk=x^k;
-            const long long dp_0=max(x+dp0, xk+dp1);
-            dp1=max(x+dp1, xk+dp0);
-            dp0=dp_0;
+    long long maximumValueSum(vector<int>& nums, int k, vector<vector<int>>& edges) {
+        long long int ans = 0;
+        int n = nums.size();
+        int balikabakra = INT_MAX;
+        int sum =0;
+        for(int i = 0;i<n ; i++){
+            if((nums[i]^k)>nums[i]){
+                ans+=nums[i]^k;
+                sum++;
+                balikabakra = min(balikabakra,abs((nums[i]^k)-nums[i]));
+            }
+            else{
+                ans+=nums[i];
+                balikabakra = min(balikabakra,abs((nums[i]^k)-nums[i]));
+            }
         }
-        return dp0;
+        if(sum%2==0){
+            return ans;
+        }else{
+            return ans-balikabakra;
+        }
+        
+        
+        return ans;
+
+
     }
 };
-
-auto init = []() {
-    ios::sync_with_stdio(0);
-    cin.tie(0);
-    cout.tie(0);
-    return 'c';
-}();
