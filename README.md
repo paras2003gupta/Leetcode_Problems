@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+| [3194-find-words-containing-character](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3194-find-words-containing-character) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0868-push-dominoes](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0868-push-dominoes) |
+| [3194-find-words-containing-character](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3194-find-words-containing-character) |
 ## Dynamic Programming
 |  |
 | ------- |
