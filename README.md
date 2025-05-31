@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0198-house-robber) |
+| [0300-longest-increasing-subsequence](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0300-longest-increasing-subsequence) |
 | [0945-snakes-and-ladders](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0945-snakes-and-ladders) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0300-longest-increasing-subsequence) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 ## Greedy
 |  |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0198-house-robber) |
+| [0300-longest-increasing-subsequence](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0300-longest-increasing-subsequence) |
 | [0516-longest-palindromic-subsequence](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0583-delete-operation-for-two-strings) |
 | [0806-domino-and-tromino-tiling](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0806-domino-and-tromino-tiling) |
