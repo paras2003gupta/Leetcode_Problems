@@ -30,7 +30,6 @@ public:
             st = hashset[st];
         }
         ans.push_back(nums[st]);
-        reverse(ans.begin(),ans.end());
         return ans;
     
     }
