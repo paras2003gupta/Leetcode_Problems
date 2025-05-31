@@ -1,6 +1,6 @@
 class Solution {
 private:
-bool checkOneLetterDiff(string a , string b){
+bool checkOneLetterDiff(string &a , string &b){
     if(a.size()-1!=b.size()) return false;
     int second = 0;
     int first = 0;
