@@ -44,9 +44,23 @@ class Solution {
         }
         return ahead[0];
     }
+    int method2(vector<int>&nums){
+        vector<int>dp(nums.size(),1);
+        int maxi = 1;
+        for(int i = 0; i<nums.size() ; i++){
+            for(int prev = 0 ; prev<i ; prev++){
+                if(nums[prev]<nums[i]){
+                    dp[i] = max(dp[i],1+dp[prev]);
+                    maxi = max(maxi,dp[i]);
+                }
+            }
+        }
+        return maxi;
+    }
 public:
     int lengthOfLIS(vector<int>& nums) {
         vector<vector<int>>dp(nums.size(),vector<int>(nums.size()+1,-1));
+        return method2(nums);
         return solveTab(nums);
         return solve(nums,0,-1,dp);
     }
