@@ -28,6 +28,22 @@ class Solution {
         }
         return dp[0][0];
     }
+    int spaceOpt(vector<int>&nums){
+        int n = nums.size();
+        vector<int>ahead(nums.size()+3,0);
+        for(int i = n-1 ; i>=0 ; i--){
+            vector<int>curr(nums.size()+2,0);
+            for(int prev = i-1 ; prev>=-1 ; prev--){
+                int len = ahead[prev+1];
+                if(prev==-1||nums[i]>nums[prev]){
+                    len = max(len,1+ahead[i+1]);
+                }
+                curr[prev+1] = len;
+            }
+            ahead = curr;
+        }
+        return ahead[0];
+    }
 public:
     int lengthOfLIS(vector<int>& nums) {
         vector<vector<int>>dp(nums.size(),vector<int>(nums.size()+1,-1));
