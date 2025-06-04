@@ -1,35 +1,33 @@
 class Solution {
+private:
+bool isPal(string &s, int i, int j){
+        while(i < j){
+            if(s[i] != s[j]){
+                return false;
+            }
+            i++;
+            j--;
+        }
+        return true;
+    }
+
+int solve(int i , string s,vector<int>&dp){
+    if(i==s.size()) return 0;
+    if(dp[i]!=-1)return dp[i];
+    int mini = INT_MAX;
+    for(int j = i; j<s.size() ; j++){
+        
+        if(isPal(s,i,j)){
+            int k = 1+solve(j+1,s,dp);
+            mini = min(mini,k);
+        }
+    }
+    return dp[i]=mini;
+}
 public:
     int minCut(string s) {
-        int n = s.size();
-        // Precompute palindrome substrings
-        vector<vector<bool>> isPal(n, vector<bool>(n, false));
-        for (int len = 1; len <= n; ++len) {
-            for (int i = 0; i <= n - len; ++i) {
-                int j = i + len - 1;
-                if (len == 1) {
-                    isPal[i][j] = true;
-                } else if (len == 2) {
-                    isPal[i][j] = (s[i] == s[j]);
-                } else {
-                    isPal[i][j] = (s[i] == s[j]) && isPal[i+1][j-1];
-                }
-            }
-        }
-
-        // dp[i] = min cuts for s[i..n-1]
-        vector<int> dp(n+1, 0);
-        dp[n] = -1; // base case: no cut needed after the end
-
-        for (int i = n-1; i >= 0; --i) {
-            int mini = INT_MAX;
-            for (int j = i; j < n; ++j) {
-                if (isPal[i][j]) {
-                    mini = min(mini, 1 + dp[j+1]);
-                }
-            }
-            dp[i] = mini;
-        }
-        return dp[0];
+        if(isPal(s,0,s.size()-1)) return 0;
+        vector<int>dp(s.size(),-1);
+        return solve(0,s,dp)-1;
     }
 };
