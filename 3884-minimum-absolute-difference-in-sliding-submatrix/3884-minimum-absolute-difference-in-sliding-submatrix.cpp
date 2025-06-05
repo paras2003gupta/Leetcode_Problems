@@ -19,16 +19,15 @@ public:
                 for(auto it:st){
                     ele.push_back(it);
                 }
+                sort(ele.begin(),ele.end());
                 int mini = INT_MAX;
                 if(ele.size()==1){
                     continue;
                 }
+
                 for(int l = 0 ; l<ele.size()-1 ; l++){
-                    for(int m = l+1;m<ele.size() ; m++){
-                        int k = abs(ele[l]-ele[m]);
-                        if(k==0)continue;
-                        mini = min(mini,k);
-                    }
+                    int val = abs(ele[l]-ele[l+1]);
+                    mini = min(mini,val);
                 }
                 ans[i][j] = mini;
 
