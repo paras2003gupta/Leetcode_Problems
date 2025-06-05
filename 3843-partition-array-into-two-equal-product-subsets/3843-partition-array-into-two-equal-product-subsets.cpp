@@ -1,25 +1,26 @@
 class Solution {
-using ld = long double;
-using ll = long long;
+    using ll = long long ;
+    using ld  = long double;
 public:
-    bool solve(vector<int>&nums,long long tar, int i,ld maketar,ld t){
-        if(tar==1&&maketar==t&&i==nums.size()){
-            return true;
-        }
-        if(i==nums.size()){
-            return false;
-        }
-        bool take = false;
-        if(tar%nums[i]==0){
-            take = solve(nums,tar/nums[i],i+1,maketar,t);
-        }
-        
-        bool nottake = solve(nums,tar,i+1,maketar*nums[i],t);
-
-        return take||nottake;
-    }
     bool checkEqualPartitions(vector<int>& nums, long long target) {
-        
-       return solve(nums,target,0,1,target);
+        int n = nums.size();
+        for(int mask = 1; mask< (1<<n )-2 ; mask++){
+            ld prod_0= 1,prod_1 = 1;
+            for(int i = 0;i<n ; i++){
+                if(mask&(1<<i)){
+                    prod_1*=nums[i];
+                }
+                else{
+                    prod_0*=nums[i];
+                }
+                if(prod_0>target||prod_1>target){
+                    break;
+                }
+            }
+            if(prod_0==target&&prod_1==target){
+                return true;
+            }
+        }
+        return false;
     }
 };
