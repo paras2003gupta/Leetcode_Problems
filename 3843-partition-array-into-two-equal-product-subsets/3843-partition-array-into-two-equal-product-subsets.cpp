@@ -19,9 +19,7 @@ public:
         return take||nottake;
     }
     bool checkEqualPartitions(vector<int>& nums, long long target) {
-        if(target==1){
-            return false;
-        }
+        
        return solve(nums,target,0,1,target);
     }
 };
