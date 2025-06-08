@@ -2,27 +2,36 @@ class Solution {
 public:
     string clearStars(string s) {
         int n = s.size();
-        priority_queue<pair<char,int>,vector<pair<char,int>>,greater<pair<char,int>>>pq;
+        vector<stack<int>>cnt(26);
+
         for(int i = 0;i<n ; i++){
             if(s[i]!='*'){
-                pq.push({s[i],-i});
+                cnt[s[i]-'a'].push(i);
             }else{
-                pq.pop();
+                for(int j = 0;j<26 ; j++){
+                    if(!cnt[j].empty()){
+                        cnt[j].pop();
+                        break;
+                    }
+                }
+            }
+            
+        }
+        vector<char>ans(n,'*');
+        for(int i = 0;i<26 ; i++){
+            while(!cnt[i].empty()){
+                int idx = cnt[i].top();
+                cnt[i].pop();
+                char c = i+'a';
+                ans[idx] = c;
             }
         }
-        vector<char>str(n,'*');
-        while(!pq.empty()){
-            char c = pq.top().first;
-            int ind = -pq.top().second;
-            str[ind] = c;
-            pq.pop();
-        }
-        string ans = "";
-        for(auto it:str){
+        string k = "";
+        for(auto it:ans){
             if(it!='*'){
-                ans+=it;
+                k+=it;
             }
         }
-        return ans;
+        return k;
     }
 };
