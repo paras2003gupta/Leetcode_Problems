@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0312-burst-balloons](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0312-burst-balloons) |
 | [0368-largest-divisible-subset](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0368-largest-divisible-subset) |
 | [0496-next-greater-element-i](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0496-next-greater-element-i) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0945-snakes-and-ladders](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0945-snakes-and-ladders) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1049-minimum-domino-rotations-for-equal-row) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0496-next-greater-element-i](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0496-next-greater-element-i) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1129-longest-string-chain](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1129-longest-string-chain) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1500-count-largest-group](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1500-count-largest-group) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0300-longest-increasing-subsequence) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0532-k-diff-pairs-in-an-array) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 ## Greedy
 |  |
@@ -103,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0368-largest-divisible-subset) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1129-longest-string-chain](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1129-longest-string-chain) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -111,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0532-k-diff-pairs-in-an-array](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0868-push-dominoes](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0868-push-dominoes) |
 | [1129-longest-string-chain](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1129-longest-string-chain) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
