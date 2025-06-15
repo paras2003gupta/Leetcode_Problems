@@ -1,28 +1,34 @@
 class Solution {
 public:
-    int findPairs(vector<int>& nums, int k) {
+    int findPairs(vector<int>& num, int k) {
         unordered_map<int,int>mp;
-        for(int i = 0;i<nums.size() ;i++){
-            mp[nums[i]]++;
-        }  
-        int ans =0;
-        
-        if(k>0){
-            for(auto it:mp){
-                if(mp.count(it.first+k)>0)ans++;
-
-            }
-            return ans;
-
-        }else{
-            for(auto it:mp){
-                if(it.second>1){
-                    ans++;
-                }
-
-            }
-            return ans;
+        set<int>stw;
+        for(auto it:num){
+            stw.insert(it);
+            mp[it]++;
         }
-        return ans;
+        vector<int>nums;
+        for(auto it:stw){
+            nums.push_back(it);
+            
+        }
+        
+        int cnt = 0;
+        if(k==0){
+            for(auto it:mp){
+                if(it.second>1) cnt++;
+                
+            }return cnt;
+        }
+
+        for(int i = 0 ; i<nums.size() ; i++){
+            
+            if(mp.find(nums[i]+k)!=mp.end()){
+                cnt++;
+                
+            }
+
+        }
+        return cnt;
     }
 };
