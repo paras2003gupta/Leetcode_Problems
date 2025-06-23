@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0049-group-anagrams) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0049-group-anagrams) |
 | [0208-implement-trie-prefix-tree](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0496-next-greater-element-i](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0496-next-greater-element-i) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0049-group-anagrams) |
 | [0368-largest-divisible-subset](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0368-largest-divisible-subset) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1129-longest-string-chain](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1129-longest-string-chain) |
@@ -148,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0044-wildcard-matching) |
+| [0049-group-anagrams](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0115-distinct-subsequences) |
 | [0132-palindrome-partitioning-ii](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0132-palindrome-partitioning-ii) |
