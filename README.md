@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2117-find-original-array-from-doubled-array](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/2117-find-original-array-from-doubled-array) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2249-count-the-hidden-sequences](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/2249-count-the-hidden-sequences) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/2618-maximize-the-minimum-powered-city) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0868-push-dominoes](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0868-push-dominoes) |
 | [1129-longest-string-chain](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1129-longest-string-chain) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## String
 |  |
