@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2117-find-original-array-from-doubled-array](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/2117-find-original-array-from-doubled-array) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2249-count-the-hidden-sequences](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/2249-count-the-hidden-sequences) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1500-count-largest-group](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1500-count-largest-group) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2117-find-original-array-from-doubled-array](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/2117-find-original-array-from-doubled-array) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [2117-find-original-array-from-doubled-array](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/2117-find-original-array-from-doubled-array) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3307-find-the-maximum-sum-of-node-values) |
@@ -310,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Monotonic Stack
 |  |
