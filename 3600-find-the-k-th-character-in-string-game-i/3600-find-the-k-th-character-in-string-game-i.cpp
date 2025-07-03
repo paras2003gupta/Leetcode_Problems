@@ -1,15 +1,14 @@
 class Solution {
 public:
     char kthCharacter(int k) {
-        string ans = "a";
-
-        while(ans.size()<=k+1){
-            string s;
-            for(auto it:ans){
-                s.push_back(it+1);
+        int n = k-1;
+        int i = 0;
+        int cnt = 0;
+        for(int i = 0;i<11 ;i++){
+            if((1<<i)&n){
+                cnt++;
             }
-            ans+=s;
         }
-        return ans[k-1];
+        return ('a'+cnt);
     }
 };
