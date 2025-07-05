@@ -17,9 +17,6 @@ public:
         }
         vector<string>ans;
         for(auto it:mp){
-            cout<<it.first<<" "<<it.second<<endl;
-        }
-        for(auto it:mp){
             if(it.second>1){
                 ans.push_back(it.first);
             }
