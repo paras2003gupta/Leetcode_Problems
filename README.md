@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3843-partition-array-into-two-equal-product-subsets](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3843-partition-array-into-two-equal-product-subsets) |
 | [3884-minimum-absolute-difference-in-sliding-submatrix](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3884-minimum-absolute-difference-in-sliding-submatrix) |
 ## Hash Table
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2673-maximize-win-from-two-segments](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/2673-maximize-win-from-two-segments) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Queue
 |  |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Sorting
 |  |
 | ------- |
