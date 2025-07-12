@@ -251,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Counting
 |  |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0070-climbing-stairs) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 ## Combinatorics
 |  |
 | ------- |
