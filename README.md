@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0070-climbing-stairs) |
 | [0368-largest-divisible-subset](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0368-largest-divisible-subset) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1500-count-largest-group](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1500-count-largest-group) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/2202-sum-of-k-mirror-numbers) |
@@ -389,4 +390,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0187-repeated-dna-sequences) |
+## Linked List
+|  |
+| ------- |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 <!---LeetCode Topics End-->
