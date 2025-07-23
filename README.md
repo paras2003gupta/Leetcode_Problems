@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2117-find-original-array-from-doubled-array](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/2117-find-original-array-from-doubled-array) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1302-delete-characters-to-make-fancy-string](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
@@ -380,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0496-next-greater-element-i) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Heap (Priority Queue)
