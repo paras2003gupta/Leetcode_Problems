@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0049-group-anagrams) |
+| [0064-minimum-path-sum](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0064-minimum-path-sum) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0152-maximum-product-subarray](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0152-maximum-product-subarray) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0045-jump-game-ii) |
 | [0062-unique-paths](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0062-unique-paths) |
+| [0064-minimum-path-sum](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0115-distinct-subsequences) |
@@ -339,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0064-minimum-path-sum) |
 | [0945-snakes-and-ladders](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0945-snakes-and-ladders) |
 | [1242-matrix-block-sum](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1242-matrix-block-sum) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1402-count-square-submatrices-with-all-ones) |
