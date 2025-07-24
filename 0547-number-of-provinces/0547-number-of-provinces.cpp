@@ -28,7 +28,6 @@ public:
         for(int i = 0; i<adj.size() ; i++){
             if(!visited[i]){
                 cnt++;
-                visited[i] = 1;
                 dfs(cnt,visited,adj,i);
             }
         }
