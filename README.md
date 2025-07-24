@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0045-jump-game-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0583-delete-operation-for-two-strings) |
 | [0868-push-dominoes](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0868-push-dominoes) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1129-longest-string-chain](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1170-shortest-common-supersequence) |
@@ -402,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0496-next-greater-element-i) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
