@@ -3,7 +3,6 @@ public:
     int maxSum(vector<int>& nums) {
         set<int>st;
         int maxi = *max_element(nums.begin(),nums.end());
-        int mini = *min_element(nums.begin(),nums.end());
         if(maxi<0){
             return maxi;
         }
