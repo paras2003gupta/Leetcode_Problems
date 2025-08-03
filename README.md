@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2249-count-the-hidden-sequences](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/2249-count-the-hidden-sequences) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/2316-count-hills-and-valleys-in-an-array) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1242-matrix-block-sum](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1242-matrix-block-sum) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2249-count-the-hidden-sequences](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/2249-count-the-hidden-sequences) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0187-repeated-dna-sequences) |
 | [0239-sliding-window-maximum](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0239-sliding-window-maximum) |
 | [1813-maximum-erasure-value](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1813-maximum-erasure-value) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/2618-maximize-the-minimum-powered-city) |
@@ -162,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2673-maximize-win-from-two-segments](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/2673-maximize-win-from-two-segments) |
