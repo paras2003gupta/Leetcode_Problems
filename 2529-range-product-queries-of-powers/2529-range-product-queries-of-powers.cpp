@@ -7,15 +7,14 @@ public:
             if (n % 2 == 1) {
                 bins.push_back(rep);
             }
-            n /= 2;
-            rep *= 2;
+            n/=2;
+            rep *=2;
         }
-
         vector<int> ans;
         for (const auto& query : queries) {
             int cur = 1;
             for (int i = query[0]; i <= query[1]; ++i) {
-                cur = static_cast<long long>(cur) * bins[i] % mod;
+                cur = 1LL*(cur) * bins[i] % mod;
             }
             ans.push_back(cur);
         }
