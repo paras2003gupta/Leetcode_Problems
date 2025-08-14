@@ -260,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1818-maximum-score-from-removing-substrings](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/2140-longest-subsequence-repeated-k-times) |
+| [2346-largest-3-same-digit-number-in-string](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3194-find-words-containing-character](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3194-find-words-containing-character) |
 | [3396-valid-word](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3396-valid-word) |
