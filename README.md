@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0368-largest-divisible-subset) |
 | [0826-soup-servings](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0826-soup-servings) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -328,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0187-repeated-dna-sequences) |
 | [0231-power-of-two](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0287-find-the-duplicate-number) |
+| [0342-power-of-four](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0342-power-of-four) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
@@ -370,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0044-wildcard-matching](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0044-wildcard-matching) |
 | [0231-power-of-two](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0342-power-of-four) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3843-partition-array-into-two-equal-product-subsets](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3843-partition-array-into-two-equal-product-subsets) |
 ## Depth-First Search
