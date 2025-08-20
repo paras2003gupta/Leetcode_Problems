@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -369,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/2438-find-closest-node-to-given-two-nodes) |
 ## Topological Sort
 |  |
@@ -403,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0945-snakes-and-ladders](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0945-snakes-and-ladders) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 ## Matrix
 |  |
 | ------- |
@@ -411,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0945-snakes-and-ladders](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0945-snakes-and-ladders) |
 | [1242-matrix-block-sum](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1242-matrix-block-sum) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [3884-minimum-absolute-difference-in-sliding-submatrix](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3884-minimum-absolute-difference-in-sliding-submatrix) |
 ## Enumeration
 |  |
@@ -468,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Monotonic Stack
 |  |
@@ -516,4 +521,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0584-find-customer-referee](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0595-big-countries) |
 | [1908-recyclable-and-low-fat-products](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1908-recyclable-and-low-fat-products) |
+## Shortest Path
+|  |
+| ------- |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 <!---LeetCode Topics End-->
