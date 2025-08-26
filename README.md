@@ -363,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0543-diameter-of-binary-tree](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0543-diameter-of-binary-tree) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3058-maximum-number-of-k-divisible-components) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Memoization
@@ -408,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0210-course-schedule-ii](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0210-course-schedule-ii) |
 | [0386-lexicographical-numbers](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0386-lexicographical-numbers) |
+| [0543-diameter-of-binary-tree](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -553,4 +555,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0803-cheapest-flights-within-k-stops](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0803-cheapest-flights-within-k-stops) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+## Binary Tree
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
