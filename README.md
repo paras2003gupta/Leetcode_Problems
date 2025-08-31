@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0231-power-of-two) |
 | [0264-ugly-number-ii](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0264-ugly-number-ii) |
+| [0279-perfect-squares](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0279-perfect-squares) |
 | [0342-power-of-four](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0368-largest-divisible-subset) |
 | [0679-24-game](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0679-24-game) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0198-house-robber) |
 | [0264-ugly-number-ii](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0264-ugly-number-ii) |
+| [0279-perfect-squares](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0300-longest-increasing-subsequence) |
 | [0312-burst-balloons](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0312-burst-balloons) |
 | [0368-largest-divisible-subset](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0368-largest-divisible-subset) |
@@ -431,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0210-course-schedule-ii) |
+| [0279-perfect-squares](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0279-perfect-squares) |
 | [0547-number-of-provinces](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0803-cheapest-flights-within-k-stops) |
