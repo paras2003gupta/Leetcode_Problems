@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0146-lru-cache) |
 | [0187-repeated-dna-sequences](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0187-repeated-dna-sequences) |
 | [0208-implement-trie-prefix-tree](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0208-implement-trie-prefix-tree) |
+| [0264-ugly-number-ii](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0264-ugly-number-ii) |
 | [0496-next-greater-element-i](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0496-next-greater-element-i) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0940-fruit-into-baskets](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0940-fruit-into-baskets) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0231-power-of-two) |
+| [0264-ugly-number-ii](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0264-ugly-number-ii) |
 | [0342-power-of-four](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0368-largest-divisible-subset) |
 | [0679-24-game](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0679-24-game) |
@@ -309,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0152-maximum-product-subarray) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0198-house-robber) |
+| [0264-ugly-number-ii](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0264-ugly-number-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0300-longest-increasing-subsequence) |
 | [0312-burst-balloons](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0312-burst-balloons) |
 | [0368-largest-divisible-subset](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0368-largest-divisible-subset) |
@@ -502,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0239-sliding-window-maximum) |
+| [0264-ugly-number-ii](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0264-ugly-number-ii) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
