@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0031-next-permutation) |
+| [0036-valid-sudoku](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0036-valid-sudoku) |
 | [0045-jump-game-ii](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0049-group-anagrams) |
 | [0063-unique-paths-ii](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0063-unique-paths-ii) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0036-valid-sudoku](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0049-group-anagrams) |
 | [0146-lru-cache](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0146-lru-cache) |
 | [0187-repeated-dna-sequences](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0187-repeated-dna-sequences) |
@@ -440,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0036-valid-sudoku) |
 | [0063-unique-paths-ii](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0064-minimum-path-sum) |
 | [0498-diagonal-traverse](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0498-diagonal-traverse) |
