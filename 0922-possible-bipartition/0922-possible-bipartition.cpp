@@ -10,7 +10,7 @@ public:
             if(color[it]==-1){
                 if(!dfs(it,color,adj,!c,node))return false;
             }
-            else if(color[it]==color[node]){
+            else if(color[it]==c){
                 return false;
             }
         }
