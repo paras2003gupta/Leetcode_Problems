@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3194-find-words-containing-character](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3194-find-words-containing-character) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2432-number-of-zero-filled-subarrays](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3201-distribute-candies-among-children-ii](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3201-distribute-candies-among-children-ii) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3884-minimum-absolute-difference-in-sliding-submatrix](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3884-minimum-absolute-difference-in-sliding-submatrix) |
 ## Two Pointers
@@ -463,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/2202-sum-of-k-mirror-numbers) |
 | [3201-distribute-candies-among-children-ii](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3201-distribute-candies-among-children-ii) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
@@ -581,4 +585,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0146-lru-cache) |
+## Geometry
+|  |
+| ------- |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 <!---LeetCode Topics End-->
