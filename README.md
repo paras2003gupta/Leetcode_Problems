@@ -268,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0038-count-and-say](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0038-count-and-say) |
 | [0044-wildcard-matching](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0072-edit-distance) |
