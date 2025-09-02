@@ -2,17 +2,14 @@ class Solution {
 public:
     vector<vector<int>>ans;
     void dfs(int node, int target,  vector<int>adj[],vector<int>&res){
+        res.push_back(node);
         if(node==target){
-            res.push_back(target);
             ans.push_back(res);
-            res.pop_back();
-            return;
         }
         for(auto it:adj[node]){
-            res.push_back(node);
-            dfs(it,target,adj,res);
-            res.pop_back();
+           dfs(it,target,adj,res);
         }
+        res.pop_back();
     }
     vector<vector<int>> allPathsSourceTarget(vector<vector<int>>& graph) {
         int n = graph.size();
@@ -22,6 +19,7 @@ public:
                 adj[i].push_back(it);
             }
        }
+       //maintained a res vector which will store our calls and after call pop back the answer..
        vector<int>res;
        dfs(0,n-1,adj,res);
        return ans;
