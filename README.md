@@ -400,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0543-diameter-of-binary-tree) |
 | [0863-sum-of-distances-in-tree](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0863-sum-of-distances-in-tree) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3058-maximum-number-of-k-divisible-components) |
@@ -449,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0210-course-schedule-ii](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0210-course-schedule-ii) |
 | [0386-lexicographical-numbers](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0386-lexicographical-numbers) |
 | [0543-diameter-of-binary-tree](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0543-diameter-of-binary-tree) |
@@ -466,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0210-course-schedule-ii](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0210-course-schedule-ii) |
 | [0279-perfect-squares](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0279-perfect-squares) |
 | [0547-number-of-provinces](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0547-number-of-provinces) |
@@ -620,6 +623,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0543-diameter-of-binary-tree) |
 ## Doubly-Linked List
 |  |
