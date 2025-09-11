@@ -19,10 +19,10 @@ public:
         }
 
         q.push(root);
-        TreeNode* front = q.front();
+        
         while(!q.empty()){
             int n = q.size();
-            
+            TreeNode* front =NULL;
             while(n--){
                 front = q.front();
                 q.pop();
