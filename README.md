@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0049-group-anagrams) |
 | [0063-unique-paths-ii](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0064-minimum-path-sum) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0118-pascals-triangle](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0049-group-anagrams) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0146-lru-cache](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0146-lru-cache) |
 | [0187-repeated-dna-sequences](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0187-repeated-dna-sequences) |
 | [0208-implement-trie-prefix-tree](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0208-implement-trie-prefix-tree) |
@@ -400,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0543-diameter-of-binary-tree) |
 | [0863-sum-of-distances-in-tree](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0863-sum-of-distances-in-tree) |
@@ -623,6 +626,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0543-diameter-of-binary-tree) |
 ## Doubly-Linked List
@@ -634,4 +638,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 <!---LeetCode Topics End-->
