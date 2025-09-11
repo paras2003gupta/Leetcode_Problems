@@ -1,21 +1,33 @@
 class Solution {
 public:
+    bool isVowel(char c){
+        c = tolower(c);
+        if(c=='a'||c=='e'||c=='i'||c=='o'||c=='u')  return true;
+
+        return false;
+    }
     string sortVowels(string s) {
-        priority_queue<int,vector<int>,greater<int>>pq;
-        for(auto it:s){
-            if(it=='A'||it=='E'||it=='I'||it=='O'||it=='U'||it=='a'||it=='e'||it=='i'||it=='o'||it=='u'){
-                pq.push(it);
-            }
-        }
+        map<char,int>mp;
         for(int i = 0;i<s.size() ; i++){
-            char it = s[i];
-            if(it=='A'||it=='E'||it=='I'||it=='O'||it=='U'||it=='a'||it=='e'||it=='i'||it=='o'||it=='u'){
-                int top = pq.top();
-                pq.pop();
-                char c = (char)top;
-                s[i] = c;
+            if(isVowel(s[i])){
+                mp[s[i]]++;
             }
         }
-        return s;
+        string sortedVowel = "AEIOUaeiou";
+        string ans = "";
+        int j =0;
+        for(int i = 0 ;i<s.size(); i++){
+            if(!isVowel(s[i])){
+                ans+=s[i];
+            }
+            else{
+                while(mp[sortedVowel[j]]==0){
+                    j++;
+                }
+                ans+=sortedVowel[j];
+                mp[sortedVowel[j]]--;
+            }
+        }
+        return ans;
     }
 };
