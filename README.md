@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1121-partition-array-for-maximum-sum](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1121-partition-array-for-maximum-sum) |
 | [1129-longest-string-chain](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1129-longest-string-chain) |
+| [1207-delete-nodes-and-return-forest](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1207-delete-nodes-and-return-forest) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1242-matrix-block-sum](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1242-matrix-block-sum) |
 | [1348-maximum-score-of-spliced-array](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1348-maximum-score-of-spliced-array) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0940-fruit-into-baskets) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1129-longest-string-chain](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1129-longest-string-chain) |
+| [1207-delete-nodes-and-return-forest](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1207-delete-nodes-and-return-forest) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1500-count-largest-group](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1500-count-largest-group) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -421,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-sum-of-distances-in-tree](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0863-sum-of-distances-in-tree) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1207-delete-nodes-and-return-forest](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1207-delete-nodes-and-return-forest) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3058-maximum-number-of-k-divisible-components) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Memoization
@@ -488,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0871-keys-and-rooms](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0871-keys-and-rooms) |
 | [0922-possible-bipartition](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0922-possible-bipartition) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1207-delete-nodes-and-return-forest](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1207-delete-nodes-and-return-forest) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/2438-find-closest-node-to-given-two-nodes) |
@@ -670,6 +674,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0543-diameter-of-binary-tree) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1207-delete-nodes-and-return-forest](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1207-delete-nodes-and-return-forest) |
 ## Doubly-Linked List
 |  |
 | ------- |
