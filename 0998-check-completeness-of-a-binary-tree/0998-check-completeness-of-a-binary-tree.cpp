@@ -26,6 +26,7 @@ public:
         if(root==NULL){
             return true;
         }
+        //i commited a mistake i write this i>n before null this will give error because it will count NULL value as node and that will not be a node so that will give me the error. if i debug it self this will be beneficial for me but no problem ............m happy :)
         if(i>n){
             return false;
         }
