@@ -9,29 +9,36 @@
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
-
 class Solution {
 public:
-    int pastNullNodeSeen = false;
-
-    bool isCompleteTree(TreeNode* root) {
-        queue<TreeNode*>q;
-        q.push(root);
-        while(!q.empty()){
-            TreeNode* frontNode = q.front();
-            q.pop();
-            if(frontNode==NULL){
-                pastNullNodeSeen = true;
-                continue;
-            }
-            else{
-                if(pastNullNodeSeen==true){
-                    return false;
-                }
-                q.push(frontNode->left);
-                q.push(frontNode->right);
-            }
+    int count_nodes(TreeNode * root){
+        if(root==NULL){
+            return 0;
         }
-        return true;
+
+        int lc = count_nodes(root->left);
+        int rc = count_nodes(root->right);
+
+        return lc+rc+1;
+    }
+    bool dfs(int n , TreeNode* root, int i){
+        
+        if(root==NULL){
+            return true;
+        }
+        if(i>n){
+            return false;
+        }
+        bool la = dfs(n,root->left,2*i);
+        bool ra  = dfs(n,root->right,2*i+1);
+        return la&&ra;
+    }
+    // By DFS method Previous one was using BFS method....
+    bool isCompleteTree(TreeNode* root) {
+        int totalNodes = count_nodes(root);
+
+
+        return dfs(totalNodes,root,1);
+
     }
 };
