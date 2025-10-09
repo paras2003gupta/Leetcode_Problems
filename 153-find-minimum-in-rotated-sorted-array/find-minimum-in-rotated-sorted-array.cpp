@@ -8,16 +8,14 @@ public:
             int mid = low + (high-low)/2;
 
             if(nums[low]<=nums[mid]){
-                //left sorted
+                mini = min(mini,nums[mid]);
                 if(nums[mid]>=nums[high]){
                     //left sorted but element is present on right side
                     low = mid+1;
-                    mini = min(mini,nums[mid]);
+                    
                 }
                 else{
-
                     high = mid-1;
-                    mini  = min(mini,nums[low]);
                 }
             }
             else{
