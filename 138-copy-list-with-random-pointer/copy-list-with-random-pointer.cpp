@@ -17,39 +17,41 @@ public:
 class Solution {
 public:
     Node* copyRandomList(Node* head) {
-        if(head==NULL)return NULL;
+        if(head==NULL)return head;
+
+        // insert new nodes in between original linked list
 
         Node* curr = head;
-        Node* prev = NULL;
-        Node* newHead = NULL;
-        unordered_map<Node*,Node*>mp;
         while(curr){
-            Node* temp  = new Node(curr->val);
-            mp[curr] = temp;
-            if(newHead == NULL){
-                newHead = temp;
-                prev = newHead;
-            }
-            else{
-                prev->next = temp;
-                prev = temp;
-            }
-
-
-            curr = curr->next;
+            Node* tosave = curr->next; //B
+            curr->next = new Node(curr->val);//A->x
+            curr->next->next = tosave;//A->x->B
+            curr = tosave;
         }
+        curr = head;
+        //Deep copy of random pointers
 
-        //fill random pointers;
-        curr=  head;
-        Node *curr1 = newHead;
         while(curr){
-            curr1->random = mp[curr->random];
-            curr1 = curr1->next;
-            curr = curr->next;
-        }
+            if(curr->random==NULL){
+                curr->next->random=NULL;
+            }else{
+                curr->next->random = curr->random->next;
+            }
 
+            curr = curr->next==NULL?NULL:curr->next->next;
+        }
+        //Seperate Linked list
+
+        Node* newHead = head->next;
+        Node* newCurr = newHead;
+        curr = head;
+
+        while(curr && newCurr){
+            curr->next = (curr->next==NULL)?NULL:curr->next->next;
+            newCurr->next = (newCurr->next==NULL)?NULL:newCurr->next->next;
+            curr = curr->next;
+            newCurr = newCurr->next;
+        }
         return newHead;
-
-
     }
 };
