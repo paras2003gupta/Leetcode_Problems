@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1813-maximum-erasure-value](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1813-maximum-erasure-value) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1503-reducing-dishes](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1503-reducing-dishes) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2117-find-original-array-from-doubled-array](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/2117-find-original-array-from-doubled-array) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/2140-longest-subsequence-repeated-k-times) |
@@ -315,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1508-longest-happy-prefix](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1508-longest-happy-prefix) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/2140-longest-subsequence-repeated-k-times) |
@@ -380,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1503-reducing-dishes](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1503-reducing-dishes) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1669-minimum-cost-to-cut-a-stick) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
