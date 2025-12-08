@@ -9,7 +9,6 @@ public:
                     double c  = sqrt(a);
                     int t = sqrt(a);
                     if(i*i+j*j == c*c&&c!=i && c!=j&&t==c&&c<=n){
-                        cout<<i <<" "<< j <<" "<<c<<" "<<endl;
                         ans++;
                     } 
                 }
