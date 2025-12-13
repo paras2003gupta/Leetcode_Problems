@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3433-count-mentions-per-user](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3433-count-mentions-per-user) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3201-distribute-candies-among-children-ii](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3201-distribute-candies-among-children-ii) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3433-count-mentions-per-user](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3433-count-mentions-per-user) |
 | [3462-vowels-game-in-a-string](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3462-vowels-game-in-a-string) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3433-count-mentions-per-user](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3433-count-mentions-per-user) |
 | [3606-coupon-code-validator](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3606-coupon-code-validator) |
 | [3884-minimum-absolute-difference-in-sliding-submatrix](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3884-minimum-absolute-difference-in-sliding-submatrix) |
 ## Two Pointers
@@ -641,6 +644,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0498-diagonal-traverse](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0498-diagonal-traverse) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/2408-number-of-people-aware-of-a-secret) |
+| [3433-count-mentions-per-user](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3433-count-mentions-per-user) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3790-fruits-into-baskets-ii) |
 ## Rolling Hash
