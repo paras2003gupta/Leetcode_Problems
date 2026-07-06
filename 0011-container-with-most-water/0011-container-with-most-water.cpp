@@ -7,16 +7,15 @@ public:
 
         int area = min(height[left],height[right])*(right-left);
         max_water=max(max_water,area);
-        cout<<area<<endl;
         while(right>left){
             if(height[left]>height[right]){
                 right--;
                 max_water = max(max_water,min(height[left],height[right])*(right-left));
-                cout<<area<<endl;
+                
             }else{
                 left++;
                 max_water= max(max_water,min(height[left],height[right])*(right-left));
-                cout<<area<<endl;
+                
             }
         }
         return max_water;
