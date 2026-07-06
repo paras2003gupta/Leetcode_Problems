@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0152-maximum-product-subarray) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0198-house-robber) |
+| [0209-minimum-size-subarray-sum](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0287-find-the-duplicate-number) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [1242-matrix-block-sum](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1242-matrix-block-sum) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2249-count-the-hidden-sequences](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/2249-count-the-hidden-sequences) |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0187-repeated-dna-sequences](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0187-repeated-dna-sequences) |
+| [0209-minimum-size-subarray-sum](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0239-sliding-window-maximum) |
 | [0867-new-21-game](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0867-new-21-game) |
 | [0940-fruit-into-baskets](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0940-fruit-into-baskets) |
@@ -227,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0300-longest-increasing-subsequence) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0532-k-diff-pairs-in-an-array) |
