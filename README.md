@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-delete-nodes-and-return-forest](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1207-delete-nodes-and-return-forest) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1242-matrix-block-sum](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1242-matrix-block-sum) |
+| [1288-remove-covered-intervals](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1288-remove-covered-intervals) |
 | [1348-maximum-score-of-spliced-array](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1348-maximum-score-of-spliced-array) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1129-longest-string-chain](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1129-longest-string-chain) |
+| [1288-remove-covered-intervals](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1288-remove-covered-intervals) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1503-reducing-dishes](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1503-reducing-dishes) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
