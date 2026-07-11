@@ -576,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/2438-find-closest-node-to-given-two-nodes) |
+| [2685-count-the-number-of-complete-components](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/2685-count-the-number-of-complete-components) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3058-maximum-number-of-k-divisible-components) |
 ## Breadth-First Search
 |  |
@@ -597,6 +598,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2685-count-the-number-of-complete-components](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/2685-count-the-number-of-complete-components) |
 ## Matrix
 |  |
 | ------- |
@@ -785,10 +787,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [2685-count-the-number-of-complete-components](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Graph Theory
 |  |
 | ------- |
+| [2685-count-the-number-of-complete-components](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 <!---LeetCode Topics End-->
