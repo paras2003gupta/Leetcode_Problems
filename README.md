@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1227-number-of-equivalent-domino-pairs](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1242-matrix-block-sum](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1242-matrix-block-sum) |
 | [1288-remove-covered-intervals](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1288-remove-covered-intervals) |
+| [1331-rank-transform-of-an-array](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1348-maximum-score-of-spliced-array](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1348-maximum-score-of-spliced-array) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1129-longest-string-chain](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1129-longest-string-chain) |
 | [1207-delete-nodes-and-return-forest](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1207-delete-nodes-and-return-forest) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1331-rank-transform-of-an-array](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1500-count-largest-group](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1500-count-largest-group) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1813-maximum-erasure-value](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1813-maximum-erasure-value) |
@@ -306,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1129-longest-string-chain](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1129-longest-string-chain) |
 | [1288-remove-covered-intervals](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1288-remove-covered-intervals) |
+| [1331-rank-transform-of-an-array](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1503-reducing-dishes](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1503-reducing-dishes) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
