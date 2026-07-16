@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3790-fruits-into-baskets-ii) |
 | [3843-partition-array-into-two-equal-product-subsets](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3843-partition-array-into-two-equal-product-subsets) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3884-minimum-absolute-difference-in-sliding-submatrix](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3884-minimum-absolute-difference-in-sliding-submatrix) |
 ## Hash Table
 |  |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3830-find-closest-person](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3830-find-closest-person) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sliding Window
 |  |
 | ------- |
@@ -329,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3433-count-mentions-per-user](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3433-count-mentions-per-user) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3606-coupon-code-validator](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3606-coupon-code-validator) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3884-minimum-absolute-difference-in-sliding-submatrix](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3884-minimum-absolute-difference-in-sliding-submatrix) |
 ## Two Pointers
 |  |
@@ -350,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
 |  |
 | ------- |
@@ -707,6 +711,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3433-count-mentions-per-user](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3433-count-mentions-per-user) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3790-fruits-into-baskets-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -798,4 +803,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2685-count-the-number-of-complete-components](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+## Number Theory
+|  |
+| ------- |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
