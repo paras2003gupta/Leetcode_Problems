@@ -1,8 +1,6 @@
 class Solution {
 public:
-    int gcdOfTwoNums(int a , int b){
-        return b==0?a:gcd(b,a%b);
-    }
+   
     long long gcdSum(vector<int>& nums) {
         int n = nums.size();
         int maxi = INT_MIN;
@@ -15,15 +13,14 @@ public:
         }
         vector<int>gcdArr(n);
         for(int i = 0;i<n ;i++){
-            gcdArr[i]=gcdOfTwoNums(nums[i],prefixLargest[i]);
+            gcdArr[i]=gcd(nums[i],prefixLargest[i]);
         }
         sort(gcdArr.begin(),gcdArr.end());
         long long sum = 0;
-        for(auto it:gcdArr)cout<<it<<" ";
         for(int i = 0;i< n/2 ;i++){
             
            
-            sum+=gcdOfTwoNums(gcdArr[i],gcdArr[n-i-1]);
+            sum+=gcd(gcdArr[i],gcdArr[n-i-1]);
             
             
         }
