@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3312-sorted-gcd-pair-queries](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3312-sorted-gcd-pair-queries) |
 | [3433-count-mentions-per-user](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3433-count-mentions-per-user) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [3312-sorted-gcd-pair-queries](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3312-sorted-gcd-pair-queries) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3583-count-special-triplets](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3583-count-special-triplets) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2249-count-the-hidden-sequences](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/2249-count-the-hidden-sequences) |
 | [2529-range-product-queries-of-powers](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/2529-range-product-queries-of-powers) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/2618-maximize-the-minimum-powered-city) |
+| [3312-sorted-gcd-pair-queries](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3312-sorted-gcd-pair-queries) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
@@ -202,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3201-distribute-candies-among-children-ii](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3201-distribute-candies-among-children-ii) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3312-sorted-gcd-pair-queries](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3312-sorted-gcd-pair-queries) |
 | [3433-count-mentions-per-user](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3433-count-mentions-per-user) |
 | [3462-vowels-game-in-a-string](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3462-vowels-game-in-a-string) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -267,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2673-maximize-win-from-two-segments](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/2673-maximize-win-from-two-segments) |
+| [3312-sorted-gcd-pair-queries](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3790-fruits-into-baskets-ii) |
@@ -474,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/2140-longest-subsequence-repeated-k-times) |
+| [3312-sorted-gcd-pair-queries](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3312-sorted-gcd-pair-queries) |
 | [3583-count-special-triplets](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3583-count-special-triplets) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
@@ -524,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0062-unique-paths) |
 | [3201-distribute-candies-among-children-ii](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3201-distribute-candies-among-children-ii) |
+| [3312-sorted-gcd-pair-queries](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3312-sorted-gcd-pair-queries) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 ## Graph
 |  |
@@ -806,5 +813,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3312-sorted-gcd-pair-queries) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
