@@ -11,22 +11,24 @@
  */
 class Solution {
 public:
-    int maxi = INT_MIN;
-    int dfs(TreeNode* root){
-        if(root==NULL){
-            return 0;
-        }
-
-        int lm = dfs(root->left);
-        int rm = dfs(root->right);
-
-        int val = root->val;
-        int ans = val+((lm>=0)?lm:0)+((rm>=0)?rm:0);
-        maxi  =max(maxi,ans);
-        return val+max({lm,rm,0});
-    }
     int maxPathSum(TreeNode* root) {
-        int ans = dfs(root);
-        return max(ans,maxi);
+        
+        int maxMsum = INT_MIN;
+
+        int h = Height(maxMsum,root);
+        return max(h,maxMsum);
+
+    }
+    int Height(int& maxMsum,TreeNode* root){
+        if(root==NULL)return 0;
+
+        int ls = Height(maxMsum,root->left);
+        int rs = Height(maxMsum,root->right);
+        ls = max(0,ls);
+        rs = max(0,rs);
+        maxMsum = max(maxMsum,ls+rs+root->val);
+        
+        return root->val + max(ls,rs);
+        
     }
 };
