@@ -406,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3396-valid-word](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3396-valid-word) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3462-vowels-game-in-a-string](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3462-vowels-game-in-a-string) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3606-coupon-code-validator](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3606-coupon-code-validator) |
 | [3617-find-the-original-typed-string-i](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3617-find-the-original-typed-string-i) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
@@ -642,6 +643,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
