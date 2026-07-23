@@ -388,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0962-flip-string-to-monotone-increasing](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0962-flip-string-to-monotone-increasing) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1129-longest-string-chain](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1129-longest-string-chain) |
+| [1143-longest-common-subsequence](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1143-longest-common-subsequence) |
 | [1170-shortest-common-supersequence](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1250-longest-common-subsequence) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -458,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-minimum-cost-for-tickets](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1025-minimum-cost-for-tickets) |
 | [1121-partition-array-for-maximum-sum](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1121-partition-array-for-maximum-sum) |
 | [1129-longest-string-chain](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1129-longest-string-chain) |
+| [1143-longest-common-subsequence](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1143-longest-common-subsequence) |
 | [1170-shortest-common-supersequence](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1250-longest-common-subsequence) |
 | [1348-maximum-score-of-spliced-array](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1348-maximum-score-of-spliced-array) |
