@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2856-count-complete-subarrays-in-an-array](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3312-sorted-gcd-pair-queries) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3583-count-special-triplets](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3583-count-special-triplets) |
 | [3606-coupon-code-validator](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3606-coupon-code-validator) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3433-count-mentions-per-user](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3433-count-mentions-per-user) |
 | [3462-vowels-game-in-a-string](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3462-vowels-game-in-a-string) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3536-maximum-product-of-two-digits) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
@@ -413,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3462-vowels-game-in-a-string](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3462-vowels-game-in-a-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3606-coupon-code-validator](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3606-coupon-code-validator) |
 | [3617-find-the-original-typed-string-i](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3617-find-the-original-typed-string-i) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
@@ -493,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [3312-sorted-gcd-pair-queries](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3312-sorted-gcd-pair-queries) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3583-count-special-triplets](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3583-count-special-triplets) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
@@ -545,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0062-unique-paths) |
 | [3201-distribute-candies-among-children-ii](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3201-distribute-candies-among-children-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3312-sorted-gcd-pair-queries) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 ## Graph
 |  |
