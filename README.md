@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3312-sorted-gcd-pair-queries) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2618-maximize-the-minimum-powered-city](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3241-divide-array-into-arrays-with-max-difference) |
@@ -339,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2887-sort-vowels-in-a-string](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/2887-sort-vowels-in-a-string) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
@@ -413,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2887-sort-vowels-in-a-string](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/2887-sort-vowels-in-a-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3194-find-words-containing-character](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3194-find-words-containing-character) |
 | [3396-valid-word](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3396-valid-word) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -498,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/2140-longest-subsequence-repeated-k-times) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3583-count-special-triplets](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3583-count-special-triplets) |
