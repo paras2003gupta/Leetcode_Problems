@@ -278,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0300-longest-increasing-subsequence) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0923-super-egg-drop](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0923-super-egg-drop) |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -487,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-count-square-submatrices-with-all-ones](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1457-minimum-difficulty-of-a-job-schedule](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1503-reducing-dishes](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1503-reducing-dishes) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1669-minimum-cost-to-cut-a-stick) |
@@ -524,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0342-power-of-four) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2529-range-product-queries-of-powers](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/2529-range-product-queries-of-powers) |
@@ -550,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0998-check-completeness-of-a-binary-tree](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1207-delete-nodes-and-return-forest) |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3058-maximum-number-of-k-divisible-components) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Memoization
@@ -625,6 +629,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-delete-nodes-and-return-forest](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1207-delete-nodes-and-return-forest) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2685-count-the-number-of-complete-components](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/2685-count-the-number-of-complete-components) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3058-maximum-number-of-k-divisible-components) |
@@ -648,6 +653,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2685-count-the-number-of-complete-components](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/2685-count-the-number-of-complete-components) |
 ## Matrix
@@ -699,6 +705,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0146-lru-cache) |
 | [0208-implement-trie-prefix-tree](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0303-range-sum-query-immutable](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0303-range-sum-query-immutable) |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Trie
 |  |
@@ -858,4 +865,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3312-sorted-gcd-pair-queries) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Binary Lifting
+|  |
+| ------- |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1483-kth-ancestor-of-a-tree-node) |
 <!---LeetCode Topics End-->
