@@ -1,31 +1,30 @@
 class Solution {
 public:
-    int n;
-    int dp[101][101];
-
-    int helper(vector<int>& piles, int i, int M) {
-        if (i >= n) return 0;
-        if (dp[i][M] != -1) return dp[i][M];
-        
+    int n ;
+    int dp[2][101][101];
+    int solve(vector<int>&piles , int person , int i , int M){
+        if(i>=n){
+            return 0;
+        }
+        if(dp[person][i][M]!=-1)return dp[person][i][M];
         int stones = 0;
-        int result = 0;
-        int totalStones = 0;
-        
-        for (int k = i; k < n; k++) {
-            totalStones += piles[k];
+        int ans = person==1?-1:INT_MAX;
+        if(person==1){
+            for(int x = 1;x<=2*M&&(i+x-1<n); x++){
+                stones+=piles[i+x-1];
+                ans = max(ans,stones + solve(piles,0, i+x ,max(M,x)));
+            }
         }
-        
-        for (int x = 1; x <= 2 * M && i + x <= n; x++) {
-            stones += piles[i + x - 1];
-            result = max(result, totalStones - helper(piles, i + x, max(M, x)));
+        else{
+            for(int x = 1 ;x<=2*M&&(i+x-1<n) ; x++){
+                ans = min(ans,solve(piles,1,i+x,max(M,x)));
+            }
         }
-        
-        return dp[i][M] = result;
+        return dp[person][i][M]= ans;
     }
-
     int stoneGameII(vector<int>& piles) {
         n = piles.size();
-        memset(dp, -1, sizeof(dp));
-        return helper(piles, 0, 1);
+        memset(dp,-1,sizeof(dp));
+        return solve(piles,1,0,1);
     }
 };
