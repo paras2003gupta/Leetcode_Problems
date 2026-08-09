@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1121-partition-array-for-maximum-sum](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1121-partition-array-for-maximum-sum) |
 | [1129-longest-string-chain](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1129-longest-string-chain) |
+| [1140-stone-game-ii](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1140-stone-game-ii) |
 | [1207-delete-nodes-and-return-forest](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1207-delete-nodes-and-return-forest) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1242-matrix-block-sum](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1242-matrix-block-sum) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0724-find-pivot-index) |
+| [1140-stone-game-ii](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1140-stone-game-ii) |
 | [1242-matrix-block-sum](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1242-matrix-block-sum) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2249-count-the-hidden-sequences](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/2249-count-the-hidden-sequences) |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0826-soup-servings](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0867-new-21-game) |
 | [0923-super-egg-drop](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0923-super-egg-drop) |
+| [1140-stone-game-ii](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1140-stone-game-ii) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
@@ -484,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-minimum-cost-for-tickets](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1025-minimum-cost-for-tickets) |
 | [1121-partition-array-for-maximum-sum](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1121-partition-array-for-maximum-sum) |
 | [1129-longest-string-chain](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1129-longest-string-chain) |
+| [1140-stone-game-ii](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1140-stone-game-ii) |
 | [1143-longest-common-subsequence](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1143-longest-common-subsequence) |
 | [1170-shortest-common-supersequence](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1250-longest-common-subsequence) |
@@ -851,6 +855,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0486-predict-the-winner) |
+| [1140-stone-game-ii](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1140-stone-game-ii) |
 | [3462-vowels-game-in-a-string](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3462-vowels-game-in-a-string) |
 ## Union-Find
 |  |
@@ -874,4 +879,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1483-kth-ancestor-of-a-tree-node) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
