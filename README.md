@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2673-maximize-win-from-two-segments](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/2673-maximize-win-from-two-segments) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3194-find-words-containing-character](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3194-find-words-containing-character) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3312-sorted-gcd-pair-queries) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2618-maximize-the-minimum-powered-city](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2673-maximize-win-from-two-segments](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/2673-maximize-win-from-two-segments) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
