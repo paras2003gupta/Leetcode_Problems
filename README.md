@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3606-coupon-code-validator](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3606-coupon-code-validator) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3731-find-missing-elements) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
@@ -551,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3843-partition-array-into-two-equal-product-subsets](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3843-partition-array-into-two-equal-product-subsets) |
 ## Tree
 |  |
