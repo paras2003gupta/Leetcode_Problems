@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1503-reducing-dishes](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1503-reducing-dishes) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1563-stone-game-v](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1563-stone-game-v) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1669-minimum-cost-to-cut-a-stick) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1500-count-largest-group](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1500-count-largest-group) |
 | [1510-stone-game-iv](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/2029-stone-game-ix) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/2202-sum-of-k-mirror-numbers) |
@@ -511,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1503-reducing-dishes](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1503-reducing-dishes) |
 | [1510-stone-game-iv](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1563-stone-game-v) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -875,6 +878,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/0486-predict-the-winner) |
 | [1140-stone-game-ii](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/2029-stone-game-ix) |
 | [3462-vowels-game-in-a-string](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3462-vowels-game-in-a-string) |
 ## Union-Find
