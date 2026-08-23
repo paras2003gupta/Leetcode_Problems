@@ -222,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1500-count-largest-group](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1500-count-largest-group) |
 | [1510-stone-game-iv](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/2029-stone-game-ix) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/2202-sum-of-k-mirror-numbers) |
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1503-reducing-dishes](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1503-reducing-dishes) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1927-sum-game](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/2029-stone-game-ix) |
 | [2117-find-original-array-from-doubled-array](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/2117-find-original-array-from-doubled-array) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/2140-longest-subsequence-repeated-k-times) |
@@ -437,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1508-longest-happy-prefix](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1508-longest-happy-prefix) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1927-sum-game](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1927-sum-game) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
@@ -884,6 +887,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/2029-stone-game-ix) |
 | [3462-vowels-game-in-a-string](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3462-vowels-game-in-a-string) |
 ## Union-Find
