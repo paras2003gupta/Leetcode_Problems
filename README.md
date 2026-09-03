@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3790-fruits-into-baskets-ii](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3790-fruits-into-baskets-ii) |
 | [3843-partition-array-into-two-equal-product-subsets](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3843-partition-array-into-two-equal-product-subsets) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3884-minimum-absolute-difference-in-sliding-submatrix](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3884-minimum-absolute-difference-in-sliding-submatrix) |
 ## Hash Table
 |  |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3830-find-closest-person](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3830-find-closest-person) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/paras2003gupta/Leetcode_Problems/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Sliding Window
 |  |
 | ------- |
